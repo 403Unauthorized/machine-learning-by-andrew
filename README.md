@@ -6,7 +6,7 @@ This course is on coursera and taught by Professor Andrew. [Machine Learning](ht
 
 - [x] Week1
 
-- [x] Week 2
+- [x] [Week 2](https://github.com/403Unauthorized/machine-learning-by-andrew/tree/master/week2)
 - [ ] Week 3
 - [ ] Week 4
 - [ ] Week 5
