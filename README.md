@@ -20,4 +20,4 @@ This course is on coursera and taught by Professor Andrew. [Machine Learning](ht
 
 [Lecture Slides - Linear Regression: Vectorization, Regularization](https://courses.cs.washington.edu/courses/cse446/20wi/Lecture8/08_Regularization.pdf)
 
-[自己的解决方案](https://403unauthorized.github.io/2021/10/machine-learning-week2/)
+[自己的解决方案](https://yongqilei.github.io/2021/10/machine-learning-week2/)
